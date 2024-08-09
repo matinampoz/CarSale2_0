@@ -1,4 +1,4 @@
-package gr.aueb.elearn;
+package gr.carcompany;
 
 import gr.aueb.elearn.models.*;
 
