@@ -1,4 +1,4 @@
 package gr.carcompany.models;
 
-public class Car {
+public class UsedCarSale {
 }
